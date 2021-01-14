@@ -1,0 +1,2 @@
+# TBME2021
+These .m files contain the MATLAB code used for the bootstrapping schemes applied in the IEEE TBME 2021 paper "Reducing the Number of MEG/EEG Trials Needed for the Estimation of Brain Evoked Responses: A Bootstrap Approach". If you decide to use the code please cite the paper. BTL.m contains the code behind the BTL approach described in Sect. II-D of the paper. BCA.m contains the code behind the BCA approach described in Sect. II-E of the paper.
